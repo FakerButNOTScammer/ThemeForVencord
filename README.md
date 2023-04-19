@@ -1,3 +1,3 @@
-# ThemeForVencord
+# NEW UP
 
-Modern theme for your discord =D (NOT MY THEME)
+**Theme for you**
